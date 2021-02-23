@@ -8,11 +8,11 @@ In this section, write what this repository tries to accomplish and how it fits 
 ### Table of Contents
 Headers will be used to reference location of destination
 
-- [Description] (#description)
-- [How to use] (#how-to-use)
-- [References] (#references)
-- [License] (#license)
-- [Author Info] (#Authore-info)
+- [Description](#description)
+- [How to use](#how-to-use)
+- [References](#references)
+- [License](#license)
+- [Author Info](#Authore-info)
 
 ## Description
 
@@ -31,7 +31,7 @@ Technical repository description. It answers the following questions:
 
 ## How To Use
 
-#### Prerequsites
+#### Prerequisites
 For example, which libraries you should install first or which environment you have to deploy in order to launch your app.
 
 #### Installation
@@ -41,7 +41,7 @@ How to deploy your app on a instance or product for example.
 #### Example References
 An scenario such that you make an api request make an example on how to do it.
 
-[Back To The Top] (#project-name)
+[Back To The Top](#project-name)
 
 ---
 
@@ -50,7 +50,7 @@ An scenario such that you make an api request make an example on how to do it.
 - Videos which could foster even more this project.
 - Also Documentation that it could help you as well.
 
-[Back To The Top] (#project-name)
+[Back To The Top](#project-name)
 
 ## License
 The MIT License (MIT)
@@ -62,7 +62,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-[Back To The Top] (#project-name)
+[Back To The Top](#project-name)
 
 ---
 
