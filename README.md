@@ -22,6 +22,9 @@ Technical repository description. It answers the following questions:
 - Where is deploy?
 - Tips on how to do it better (optional), e.t.c.
 
+#### Technical Debt
+What else to be done to the project? to be perfect
+
 #### Technologies
 
 - Python 3.8
